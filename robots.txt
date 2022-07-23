@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://01110.github.io/publii_test/sitemap.xml

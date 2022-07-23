@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Test",
+    "description": "",
+    "home_page_url": "https://01110.github.io/publii_test",
+    "feed_url": "https://01110.github.io/publii_test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "András Sárdi"
+    },
+    "items": [
+    ]
+}
